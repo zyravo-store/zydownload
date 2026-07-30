@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "product": "ZyDownload",
+  "version": "1.0.0",
+  "build": "2607291817",
+  "displayVersion": "Version 1.0.0 (2607291817)",
+  "tag": "v1.0.0",
+  "releaseTitle": "ZyDownload 1.0.0 (2607291817)",
+  "website": "https://zydownload.zyravo.store",
+  "supportEmail": "support@zyravo.store",
+  "feedbackEmail": "feedback@zyravo.store",
+  "issuesUrl": "https://github.com/zyravo-store/zydownload/issues",
+  "wikiUrl": "https://github.com/zyravo-store/zydownload/wiki",
+  "releaseUrl": "https://github.com/zyravo-store/zydownload/releases/tag/v1.0.0",
+  "updates": {
+    "en": [
+      "Initial stable release of ZyDownload."
+    ],
+    "zh-CN": [
+      "ZyDownload 首个稳定版本。"
+    ]
+  },
+  "features": {
+    "en": [
+      "Discover images, media, documents, styles, scripts, and page resources.",
+      "Filter and preview resources before downloading.",
+      "Package supported resources into organized downloads."
+    ],
+    "zh-CN": [
+      "发现网页中的图片、媒体、文档、样式、脚本和其他资源。",
+      "下载前筛选并预览资源。",
+      "将支持的资源整理并打包下载。"
+    ]
+  },
+  "packages": {
+    "chrome": {
+      "file": "zydownload-chrome-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-chrome-1.0.0.zip"
+    },
+    "edge": {
+      "file": "zydownload-edge-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-edge-1.0.0.zip"
+    },
+    "firefox": {
+      "file": "zydownload-firefox-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-firefox-1.0.0.zip"
+    },
+    "windows": {
+      "file": "zydownload-windows-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-windows-1.0.0.zip"
+    },
+    "linux": {
+      "file": "zydownload-linux-1.0.0.zip",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-linux-1.0.0.zip"
+    },
+    "macos-pkg": {
+      "file": "zydownload-macos-1.0.0.pkg",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-macos-1.0.0.pkg"
+    },
+    "macos-dmg": {
+      "file": "zydownload-macos-1.0.0.dmg",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-macos-1.0.0.dmg"
+    },
+    "checksums": {
+      "file": "zydownload-1.0.0-sha256.txt",
+      "url": "https://github.com/zyravo-store/zydownload/releases/download/v1.0.0/zydownload-1.0.0-sha256.txt"
+    }
+  }
+}
